@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm RDH</h1>
-<h3 align="center">Software Developer | Full-Stack | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm RATNADEEP</h1>
+<h3 align="center">Software Engineer | Full-Stack | Java + Spring Boot | React + TypeScript</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Manufacturing ERP System (React + TypeScript + RTK Query)**
-- 🌱 I’m learning **Advanced JavaScript, Node.js, Express, MongoDB**
-- 🚀 I love building **scalable web applications**
-- 💬 Ask me about **React, TypeScript, JavaScript, Node, APIs**
-- ⚡ Fun fact: I break code to learn how to fix it 😉
+- 🔭 Currently building: **Manufacturing ERP System (React + TypeScript + RTK Query)**
+- 🌱 Learning & working with **Java, Spring Boot, J2EE, Hibernate, Node.js, MongoDB**
+- 💡 Passionate about building scalable web apps & backend systems
+- 💬 Ask me about **Java, Spring Boot, React, TypeScript, Node.js, APIs**
+- ⚡ Fun fact: I debug more than I code… and I enjoy it 😄
 
 ---
 
@@ -22,35 +22,50 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 
-### **Backend**
+---
+
+### **Backend (Java)**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=fff)
+![J2EE](https://img.shields.io/badge/J2EE-007396?style=for-the-badge&logo=java&logoColor=fff)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=fff)
+
+---
+
+### **Backend (JavaScript)**
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 ![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=fff)
+
+---
 
 ### **Database**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=fff)
 
+---
+
 ### **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=fff)
 ![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=fff)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000?style=for-the-badge&logo=intellijidea&logoColor=fff)
 
 ---
 
 ## 🚀 Projects
 
 ### 🔹 **Manufacturing ERP System**
-Full-stack ERP system using **React, TS, RTK Query** for managing inventory, production, and workflows.
+Full ERP system using **React, TypeScript, RTK Query** with modular architecture.
 
-### 🔹 **AI Wiki Agent**
-AI model that fetches & summarizes data from Wikipedia.
+### 🔹 **AI Wikipedia Agent**
+AI that fetches and summarizes data from Wikipedia.
 
-### 🔹 Other Small Projects
-- Authentication System (JWT + Node + MongoDB)  
-- To-Do App (React)  
-- Hash Table Visualization Tool  
-- API Testing Playground  
+### 🔹 **Java Spring Boot Projects**
+- REST API with JWT Authentication  
+- CRUD Application using **Spring Boot + Hibernate**  
+- Servlet + JSP + J2EE mini projects  
 
 ---
 
@@ -78,8 +93,6 @@ AI model that fetches & summarizes data from Wikipedia.
 
 ## 📌 Quote
 
-> *"Code is like humor. When you have to explain it, it’s bad."*
+> *"First, solve the problem. Then, write the code." — John Johnson*
 
 ---
-
-
