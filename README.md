@@ -72,8 +72,8 @@ AI that fetches and summarizes data from Wikipedia.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=${ratndeepholge1707}&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=${ratndeepholge1707}&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ratndeepholge1707&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ratndeepholge1707&theme=radical" />
 </p>
 
 ---
@@ -81,10 +81,10 @@ AI that fetches and summarizes data from Wikipedia.
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/your-linkedin/">
+<a href="https://www.linkedin.com/in/ratnadeep-holge">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:ratnadeep1231@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
