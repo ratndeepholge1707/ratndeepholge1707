@@ -72,8 +72,8 @@ AI that fetches and summarizes data from Wikipedia.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=${ratndeepholge1707}&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=${ratndeepholge1707}&theme=radical" />
 </p>
 
 ---
